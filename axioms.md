@@ -26,7 +26,7 @@ It is also why AI output can feel more mature than it is. A model can reproduce 
 ## 1. The Foundational Axiom
 
 $$
-\text{Software Engineering} \approx \operatorname{Manage}(\Delta \text{System} \mid \text{Constraints})
+\text{Software Engineering} \approx \mathrm{Manage}(\Delta \text{System} \mid \text{Constraints})
 $$
 
 Software engineering is not primarily the act of writing code.
@@ -265,7 +265,7 @@ This applies to AI-generated code, documentation, requirements, architecture pro
 ## Final Compression
 
 $$
-\text{Software Engineering} \approx \operatorname{Manage}(\Delta \text{System} \mid \text{Constraints})
+\text{Software Engineering} \approx \mathrm{Manage}(\Delta \text{System} \mid \text{Constraints})
 $$
 
 $$
